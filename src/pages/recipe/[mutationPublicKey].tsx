@@ -3,7 +3,7 @@ import Head from "next/head";
 import { MutationView } from "../../views";
 import { useRouter } from "next/router";
 import { formatPublickey } from "../../utils/helpers";
-const Mutation: NextPage = (props) => {
+const Recipe: NextPage = (props) => {
 	const router = useRouter();
 
 	let { mutationPublicKey } = router.query;
@@ -31,4 +31,4 @@ const Mutation: NextPage = (props) => {
 	);
 };
 
-export default Mutation;
+export default Recipe;
