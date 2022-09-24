@@ -38,8 +38,8 @@ const Home: NextPage = (props) => {
 									</h1>
 									<p className="mt-6 text-xl text-gray-500">Stake, Swap, Merge, Split, Breed, Burn, Escrow & much more.</p>
 								</div> */}
-								<b>ADMIN PANEL</b><br />
-								<div className="mt-12 sm:max-w-lg sm:w-full sm:flex text-center align-center items-center flex flex-col">
+								<b>SIKE MFER!</b><br />
+								{/* <div className="mt-12 sm:max-w-lg sm:w-full sm:flex text-center align-center items-center flex flex-col">
 									<div>
 
 										<Link href="/transmuters">
@@ -48,7 +48,7 @@ const Home: NextPage = (props) => {
 											</button>
 										</Link>
 									</div>
-								</div>
+								</div> */}
 								<div className="mt-6">
 									<div className="inline-flex items-center divide-x  divide-gray-300  text-sm text-gray-500 min-w-medium ">
 										<div className="inline-flex items-center py-2 pr-5">
