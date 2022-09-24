@@ -28,7 +28,7 @@ export const AppBar: FC = (props) => {
 								</div>
 								<div className="hidden sm:ml-6 sm:flex sm:space-x-8">
 									{/* Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" */}
-									<Link href="/transmuters">
+									<Link href="https://utility.theshadyclass.xyz/">
 										<span
 											className={` text-gray-50 hover:text-indigo-500 transition-all duration-150 ease-in inline-flex items-center px-1 pt-1  text-sm font-medium cursor-pointer ${router.pathname === "/transmuters" && "border-indigo-500 border-b-2"
 												}`}
